@@ -34,7 +34,19 @@ Write your own steps here.
 ```
 
 ## Output:
-Include your output screenshot here
+
+![output](./a.png)
+
+![output](./3.png)
+
+![output](./4.png)
+
+![output](./5.png)
+
+![output](./6.png)
+
+![output](./7.png)
 
 ## Result:
-Write your result
+
+Thus a website had been developed to display details about the places around my house.
